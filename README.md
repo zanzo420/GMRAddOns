@@ -5,7 +5,7 @@ AddOns that work with GMR, GMR plugins and GMR profiles
 ## How to clone
 
 ```sh
-git clone --recurse-submodules https://github.com/AkiKonani/GMRPluginsAndProfiles.git
+git clone --recurse-submodules https://github.com/zanzo420/GMRAddOns.git
 ```
 
 ## Dependencies
